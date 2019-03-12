@@ -1,5 +1,5 @@
 # Capstone - Blue Management
-**BLUE Management** is a project management web application that serves to track and streamline project from start to finish. The project is built by 5 students at Southern Alberta Institute of Technology (SAIT). 
+**Blue Management** is a project management web application that serves to track and streamline project from start to finish. The project is built by 5 students at Southern Alberta Institute of Technology (SAIT). 
 
 ## the team
 * Viet Nguyen - Software Development Lead
